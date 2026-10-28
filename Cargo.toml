@@ -1,0 +1,10 @@
+[package]
+name = "sigmaos_cinnamon_desktop"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "sigmaos_cinnamon_desktop"
+path = "src/lib.rs"
